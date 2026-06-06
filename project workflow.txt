@@ -1,0 +1,63 @@
+START
+  │
+  ▼
+Dataset Collection
+(Kaggle Netflix Dataset)
+  │
+  ▼
+Data Loading
+(Pandas)
+  │
+  ▼
+Data Understanding
+• View Dataset
+• Check Shape
+• Check Data Types
+  │
+  ▼
+Data Cleaning
+• Handle Missing Values
+• Remove Duplicates
+• Format Date Columns
+  │
+  ▼
+Exploratory Data Analysis
+• Statistical Summary
+• Distribution Analysis
+• Frequency Analysis
+  │
+  ▼
+Data Visualization
+• Bar Charts
+• Pie Charts
+• Histograms
+• Heatmaps
+• Count Plots
+  │
+  ▼
+Correlation Analysis
+• Identify Relationships
+• Analyze Influencing Factors
+  │
+  ▼
+Insights Generation
+• Content Trends
+• Popular Genres
+• Top Countries
+• Rating Analysis
+  │
+  ▼
+Report Preparation
+• Findings
+• Visualizations
+• Conclusions
+  │
+  ▼
+GitHub Upload
+• Source Code
+• Dataset
+• README
+• Report
+  │
+  ▼
+END
